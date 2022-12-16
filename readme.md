@@ -1,2 +1,3 @@
 TODO CREATE 기능
 CLIENT BASIC SETTING
+나도 개발 배웠다!!
